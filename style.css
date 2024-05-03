@@ -64,3 +64,9 @@
 .none{
     display:none;
 }
+.button::placeholder{
+    color: #DBDBDB;
+}
+li{
+    list-style: none;
+}
